@@ -3,7 +3,7 @@
   "symbol": "OVOLS",
   "description": "Thanks to the NFT you bought on the MagicEden site, you have earned the right to free Mint.🥳 \n\n Battle-tested citizens ready to protect and serve the City of Elixir. Ovols sit at the center of the Elixir ecosystem. Built on 3 pillars - Transparency, Community & Value. \n\n You can have your free Mint right to our limited NFT collection during the day on our site.🔽",
   "seller_fee_basis_points": 100,
-  "external_url": "https://elixirovolslist.netlify.app",
+  "external_url": "https://elixirovols.web.app",
   "edition": "Alpha",
   "background_color": "000000",
   "attributes": [
@@ -20,7 +20,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "address": "749prDAfvidVWgsCUhPRp4PxXDnwTANg2sKHqRiJKBW9",
         "share": 100
       }
     ],
